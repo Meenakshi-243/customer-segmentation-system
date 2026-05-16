@@ -1,4 +1,4 @@
-<img width="1903" height="823" alt="image" src="https://github.com/user-attachments/assets/b917eda9-3f73-4d2c-863e-d2d6a6e31ea3" /># Customer Segmentation System
+# Customer Segmentation System
 
 A full-stack Machine Learning web application that segments customers based on income and spending behavior using K-Means Clustering.
 
