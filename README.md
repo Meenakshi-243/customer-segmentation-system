@@ -121,20 +121,19 @@ streamlit run app.py
 
 ## Dashboard
 
-![Dashboard](images/dashboard.png)
+(![Dashboard](https://raw.githubusercontent.com/meena/customer-segmentation-system/main/images/dashboard.png))
 
 ## Prediction Page
 
-![Prediction](images/prediction.png)
+(![Prediction](https://raw.githubusercontent.com/meena/customer-segmentation-system/main/images/prediction.png))
 
 ## Analytics Page
-
-![Analytics](images/analytics1.png)
-![Analytics](images/analytics2.png)
+(![Analytics](https://raw.githubusercontent.com/meena/customer-segmentation-system/main/images/analytics1.png))
+(![Analytics](https://raw.githubusercontent.com/meena/customer-segmentation-system/main/images/analytics2.png))
 
 ## History Page
 
-![History](images/history.png)
+(![History](https://raw.githubusercontent.com/meena/customer-segmentation-system/main/images/history.png)))
 # Future Improvements
 
 * User authentication
