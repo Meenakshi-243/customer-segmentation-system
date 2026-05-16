@@ -1,4 +1,4 @@
-# Customer Segmentation System
+<img width="1903" height="823" alt="image" src="https://github.com/user-attachments/assets/b917eda9-3f73-4d2c-863e-d2d6a6e31ea3" /># Customer Segmentation System
 
 A full-stack Machine Learning web application that segments customers based on income and spending behavior using K-Means Clustering.
 
@@ -116,9 +116,25 @@ streamlit run app.py
 * Prediction
 * History
 * Analytics
-
 ---
+# Application Screenshots
 
+## Dashboard
+
+![Dashboard](images/dashboard.png)
+
+## Prediction Page
+
+![Prediction](images/prediction.png)
+
+## Analytics Page
+
+![Analytics](images/analytics1.png)
+![Analytics](images/analytics2.png)
+
+## History Page
+
+![History](images/history.png)
 # Future Improvements
 
 * User authentication
